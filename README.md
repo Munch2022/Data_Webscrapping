@@ -1,7 +1,9 @@
 # Data_Webscrapping
 This repo consists the code to extract data through web scraping
 
-👉 website refered 'https://www.ambitionbox.com' ;; page- 'https://www.ambitionbox.com/list-of-companies?'
+👉 website refered : 'https://www.ambitionbox.com' 
+
+👉 Accessed link to fetch data : 'https://www.ambitionbox.com/list-of-companies?'
 
 
 # Description : 
